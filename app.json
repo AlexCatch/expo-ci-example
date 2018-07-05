@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "expo-cli-example",
+    "name": "expo-ci-example",
     "description": "This project is really great.",
     "slug": "expo-cli-example",
     "privacy": "public",
@@ -22,6 +22,9 @@
     ],
     "ios": {
       "supportsTablet": true
+    },
+    "android": {
+      "package": "me.alexcatchpoledev.expo_ci_test"
     }
   }
 }
