@@ -21,7 +21,9 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "uk.co.langleyfoxall.test-app",
+      "buildNumber": "1"
     },
     "android": {
       "package": "me.alexcatchpoledev.expo_ci_test"
